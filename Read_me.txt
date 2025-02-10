@@ -19,6 +19,3 @@ Python (Core logic)
 Pandas (Data handling)
 OS & CSV modules (File management)
 
-
-🗄️ download me :
-For better experience using this code like .exe work in ur terminal without using any compilers
